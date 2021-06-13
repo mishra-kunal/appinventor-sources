@@ -260,6 +260,7 @@ public abstract class AndroidViewComponent extends VisibleComponent {
     return row;
   }
 
+  
   /**
    * Row property setter method.
    *
